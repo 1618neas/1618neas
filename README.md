@@ -12,11 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--<p align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=speech&height=100&color=00FF51&text=φneas%20&textBg=false&descAlign=49&animation=scaleIn&reversal=false&fontColor=000000&fontSize=65&fontAlignY=53"/>
-</p>-->
+</p>
 
-<div align="left">
+<!--<div align="left">
   <img height="248" src="https://i.imgflip.com/64yeof.jpg"  />
 </div>
 
